@@ -4,7 +4,7 @@ include('../includes/conn.php');
 include('../functions/commonfunc.php');
 session_start();
 ?>
-<!DOCTYPE html>
+<!DOCTYPE html>    
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -19,7 +19,7 @@ session_start();
             /* CSS styles for the square box */
            .admin_image
            {
-             width: 150px;
+             width: 140px;
              object-fit: contain;
            }
            .footer
